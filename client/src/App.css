@@ -1,0 +1,128 @@
+.body{
+  padding: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.center{
+  text-align: center;
+}
+.d-flex{
+  display: flex;
+}
+.justify-around{
+  justify-content: space-around;
+}
+.nav-head{
+  display: flex;
+  background-color: #803c04;
+  text-align: center;
+  color: white;
+  justify-content: space-between;
+  border: 4px solid black;
+}
+
+button{
+  background-color: #105494;
+  margin: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 3px solid black;
+  box-shadow: 2px 3px black;
+}
+button p{
+  color: white;
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 600;
+  font-style: italic;
+}
+.text-none{
+  text-decoration: none;
+}
+ .head-title{
+  margin-left: 40%;
+}
+.d-flex{
+  display: flex;
+}
+input{
+  border: 2px solid black;
+  padding: 10px;
+}
+.treasureChests{
+  width: 18%;
+}
+.col-form{
+  justify-content: space-around;
+  padding: 30px;
+  background-color: #ff9c04;
+  border: 4px solid black;
+}
+.col-list{
+  padding: 50px;
+  background-color: #ff9c04;
+  border: 4px solid black;
+}
+.row-list{
+  background-color: white;
+  margin: 10px;
+  padding: 15px;
+  justify-content: space-around;
+}
+.col-details{
+  padding: 50px;
+  background-color: #ff9c04;
+  border: 4px solid black;
+}
+.row-details{
+  background-color: white;
+  padding: 50px;
+  border: 4px solid black;
+
+}
+.row-details label{
+  padding: 10px;
+  padding: 20px 10px;
+  font-size: medium;
+}
+.details-header{
+  font-weight: bold;
+
+}
+.deleteBtn{
+  background-color: red;
+  color: white;
+  border: 3px solid black;
+  margin: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: bold;
+  box-shadow: 2px 3px black;
+}
+span{
+  color: rgb(255, 3, 3);
+  font-style: italic;
+  font-weight: bold;
+}
+select{
+  padding: 10px;
+  font-weight: bold;
+}
+select option{
+    font-weight: bold;
+}
+.checkbox{
+  font-weight: bold;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+
+
