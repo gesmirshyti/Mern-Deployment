@@ -17,7 +17,7 @@ const PiratesForm = () => {
 
     const onSubmitHandler = (e) => {
         e.preventDefault();
-
+ 
         axios
             .post("http://localhost:3000/pirates/new", {
                 name,

@@ -15,7 +15,7 @@ const PirateDetails = () => {
       })
       .catch((err) => console.log(err));
   }, [id]);
-
+ 
   const handleChange = (newVaule) => {
     console.log(pirate)
     console.log(newVaule)

@@ -16,7 +16,7 @@ const PiratesList = (props) => {
         });
 
         setPirates(sortedPirates);
-      })
+      }) 
       .catch((err) => {
         console.log(err);
       });
